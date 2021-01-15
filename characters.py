@@ -8,8 +8,8 @@ You may:
 3.	Be a farmer from Illinois
 What is your choice? ''')
     if choice == '1':
-        print ('You are a banker; you have $1600.')
-        return 'Banker',1600
+        print ('You are a banker; you have $800000.')
+        return 'Banker',800000
     elif choice == '2':
         print ('You are a carpenter; you have $800.')
         return 'Carpenter',800
